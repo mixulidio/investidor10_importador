@@ -1,0 +1,127 @@
+[
+    {
+        "ticker": "CAT",
+        "id": 4159,
+        "tipo": "Stock"
+    },
+    {
+        "ticker": "MSFT",
+        "id": 17,
+        "tipo": "Stock"
+    },
+    {
+        "ticker": "DEO",
+        "id": 4290,
+        "tipo": "Stock"
+    },
+    {
+        "ticker": "DE",
+        "id": 4287,
+        "tipo": "Stock"
+    },
+    {
+        "ticker": "COP",
+        "id": 4276,
+        "tipo": "Stock"
+    },
+    {
+        "ticker": "BRKB",
+        "id": 4675,
+        "tipo": "Stock"
+    },
+    {
+        "ticker": "BRK.B",
+        "id": 4675,
+        "tipo": "Stock"
+    },
+    {
+        "ticker": "SPG",
+        "id": 4183,
+        "tipo": "Reit"
+    },
+    {
+        "ticker": "PLD",
+        "id": 4454,
+        "tipo": "Reit"
+    },
+    {
+        "ticker": "AMT",
+        "id": 4198,
+        "tipo": "Reit"
+    },
+    {
+        "ticker": "DIS",
+        "id": 11,
+        "tipo": "Stock"
+    },
+    {
+        "ticker": "TSM",
+        "id": 4497,
+        "tipo": "Stock"
+    },
+    {
+        "ticker": "CMCSA",
+        "id": 941,
+        "tipo": "Stock"
+    },
+    {
+        "ticker": "CRM",
+        "id": 4188,
+        "tipo": "Stock"
+    },
+    {
+        "ticker": "SONY",
+        "id": 39,
+        "tipo": "Stock"
+    },
+    {
+        "ticker": "WELL",
+        "id": 4534,
+        "tipo": "Reit"
+    },
+    {
+        "ticker": "IVV",
+        "id": 48,
+        "tipo": "EtfInternational"
+    },
+    {
+        "ticker": "KHC",
+        "id": 2132,
+        "tipo": "Stock"
+    },
+    {
+        "ticker": "BSX",
+        "id": 48,
+        "tipo": "Stock"
+    },
+    {
+        "ticker": "MU",
+        "id": 2559,
+        "tipo": "Stock"
+    },
+    {
+        "ticker": "GOOGL",
+        "id": 7,
+        "tipo": "Stock"
+    },
+    {
+        "ticker": "NVDA",
+        "id": 86,
+        "tipo": "Stock"
+    },
+    {
+        "ticker": "BABA",
+        "id": 9,
+        "tipo": "Stock"
+    },
+    {
+        "ticker": "EQIX",
+        "id": 1307,
+        "tipo": "Reit"
+    },
+    {
+        "ticker": "SNE",
+        "id": 39,
+        "tipo": "Stock"
+    }
+]
